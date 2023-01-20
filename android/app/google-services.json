@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978575753134",
+    "firebase_url": "https://putracab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "putracab",
+    "storage_bucket": "putracab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978575753134:android:589a57702c60bab048d23f",
+        "android_client_info": {
+          "package_name": "com.example.putracab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978575753134-7kg030ako9ablvpo171rm3qgoo7ap125.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBZ1jy9R1v0GdKGOrfdxOflhDbpT-uhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978575753134-7kg030ako9ablvpo171rm3qgoo7ap125.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
